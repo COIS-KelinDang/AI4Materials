@@ -1,0 +1,12 @@
+<annotation>
+  <SE_Image_File>3-7-1_SE_p1.tif</SE_Image_File>
+  <BSE_Image_File>3-7-1_BSE_p1.tif</BSE_Image_File>
+  <Surf_NeckWidth_um>0.04636568</Surf_NeckWidth_um>
+  <Surf_NetDensity_um>0.013801607</Surf_NetDensity_um>
+  <Surf_Porosity>0.323712949</Surf_Porosity>
+  <Surf_Tex_RMS_Roughness>0.394964761</Surf_Tex_RMS_Roughness>
+  <Surf_Tex_Contrast>0.078073402</Surf_Tex_Contrast>
+  <Surf_Tex_Homogeneity>0.624189133</Surf_Tex_Homogeneity>
+  <Surf_Tex_Correlation>0.835639444</Surf_Tex_Correlation>
+  <Surf_Alignment>0.741011657</Surf_Alignment>
+</annotation>

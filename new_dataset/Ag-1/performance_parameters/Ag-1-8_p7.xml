@@ -1,0 +1,12 @@
+<annotation>
+  <SE_Image_File>Ag-1-8_SE_p7.tif</SE_Image_File>
+  <BSE_Image_File>Ag-1-8_BSE_p7.tif</BSE_Image_File>
+  <Surf_NeckWidth_um>0.45051316</Surf_NeckWidth_um>
+  <Surf_NetDensity_um>0.001975891</Surf_NetDensity_um>
+  <Surf_Porosity>0.050512107</Surf_Porosity>
+  <Surf_Tex_RMS_Roughness>0.124044181</Surf_Tex_RMS_Roughness>
+  <Surf_Tex_Contrast>0.018358926</Surf_Tex_Contrast>
+  <Surf_Tex_Homogeneity>0.757275534</Surf_Tex_Homogeneity>
+  <Surf_Tex_Correlation>0.611818296</Surf_Tex_Correlation>
+  <Surf_Alignment>0.650748469</Surf_Alignment>
+</annotation>

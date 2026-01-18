@@ -1,0 +1,11 @@
+<annotation>
+  <Image_File>0-8-3_BSE_p1.tif</Image_File>
+  <Pixel_Scale_nm_per_px>5.434782608695652</Pixel_Scale_nm_per_px>
+  <BSE_Ag_Coverage>0.273681641</BSE_Ag_Coverage>
+  <BSE_Porosity>0.184549534574468</BSE_Porosity>
+  <BSE_Effective_LCC_Ratio>0.0133654005984042</BSE_Effective_LCC_Ratio>
+  <BSE_Connectivity>0.0488355761383263</BSE_Connectivity>
+  <BSE_Ag_Mean_Width_um>0.0482155511392136</BSE_Ag_Mean_Width_um>
+  <BSE_Ag_Bottleneck_Width_um>0.0153718865475336</BSE_Ag_Bottleneck_Width_um>
+  <BSE_Ag_Entropy>4.471927085297406</BSE_Ag_Entropy>
+</annotation>

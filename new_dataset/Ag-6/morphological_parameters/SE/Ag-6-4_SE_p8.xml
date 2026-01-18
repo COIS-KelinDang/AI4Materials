@@ -1,0 +1,11 @@
+<annotation>
+  <Image_File>Ag-6-4_SE_p8.tif</Image_File>
+  <Pixel_Scale_nm_per_px>543.4782608695651</Pixel_Scale_nm_per_px>
+  <SE_Porosity>0.5238946143617021</SE_Porosity>
+  <SE_Network_Density_um>0.1837973736702127</SE_Network_Density_um>
+  <SE_Norm_Euler_Number>-0.000756217</SE_Norm_Euler_Number>
+  <SE_Mean_Neck_Width_um>3.1166179021965275</SE_Mean_Neck_Width_um>
+  <SE_Min_Bottleneck_Width_um>1.0869565217391304</SE_Min_Bottleneck_Width_um>
+  <SE_Texture_Contrast>1230.7370976808097</SE_Texture_Contrast>
+  <SE_Texture_Homogeneity>0.053030388961952</SE_Texture_Homogeneity>
+</annotation>

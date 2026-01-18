@@ -1,0 +1,11 @@
+<annotation>
+  <Image_File>3-13-4_SE_p4.tif</Image_File>
+  <Pixel_Scale_nm_per_px>108.69565217391305</Pixel_Scale_nm_per_px>
+  <SE_Porosity>0.4325081033909574</SE_Porosity>
+  <SE_Network_Density_um>0.398275432180851</SE_Network_Density_um>
+  <SE_Norm_Euler_Number>-0.008793218</SE_Norm_Euler_Number>
+  <SE_Mean_Neck_Width_um>1.8294780148032372</SE_Mean_Neck_Width_um>
+  <SE_Min_Bottleneck_Width_um>0.4861017342390847</SE_Min_Bottleneck_Width_um>
+  <SE_Texture_Contrast>261.75165507765337</SE_Texture_Contrast>
+  <SE_Texture_Homogeneity>0.1509680830270798</SE_Texture_Homogeneity>
+</annotation>
