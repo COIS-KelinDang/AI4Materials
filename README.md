@@ -2,4 +2,5 @@ Bridging microstructure and electrical response: diffusion probability model-dri
 
 刘正华, 党可林, 李银梁, 郭思君
 
-<img width="640" height="275" alt="image" src="https://github.com/user-attachments/assets/c8962e69-60f9-4cf3-a03a-11e6988f27a3" />
+![9fac8c4595363567453215422138f3b4](https://github.com/user-attachments/assets/7c2a9a79-4112-46dd-b8c8-54cb3a9d29a8)
+
